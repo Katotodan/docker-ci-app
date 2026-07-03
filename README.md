@@ -1,7 +1,7 @@
 # Docker CI App
 
-![Docker Pulls](https://img.shields.io/docker/pulls/username/docker-ci-app)
-![Docker Image Size](https://img.shields.io/docker/image-size/username/docker-ci-app/latest)
+![Docker Pulls](https://img.shields.io/docker/pulls/katotodan/docker-ci-app)
+![Docker Image Size](https://img.shields.io/docker/image-size/katotodan/docker-ci-app/latest)
 
 ## Quick Start
 
