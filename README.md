@@ -6,7 +6,7 @@
 ## Quick Start
 
 ```bash
-docker pull username/docker-ci-app:latest
+docker pull katotodan/docker-ci-app:latest
 docker run -p 3000:3000 username/docker-ci-app:latest
 curl http://localhost:3000
 ```
